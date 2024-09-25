@@ -1,0 +1,13 @@
+{
+	"email" : {
+		"PREPARE_CODE_REGISTER" : "Prepare Code Register" ,
+		"CONFIRM_REGISTER" : "Register Confirmed" ,
+		"PREPARE_CODE_CHANGE_EMAIL1" : "Prepare Code Change Email First",
+		"PREPARE_CODE_CHANGE_EMAIL2" : "Prepare Code Change Email Final" ,
+		"PREPARE_FORGET_PASSWORD" : "Prepare Forget Password" ,
+		"PREPARE_ENABLE_G2" : "Prepare Enable G2" ,
+		"CONFIRM_ENABLE_G2" : "Confirm Enable G2" ,
+		"PREPARE_DISABLE_G2" : "Prepare DISABLE G2"
+	}
+
+}

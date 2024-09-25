@@ -1,0 +1,12 @@
+{
+	"email" : {
+		"PREPARE_CODE_REGISTER" : "اعتبار سنجی ثبت نام" ,
+		"CONFIRM_REGISTER" : "ثبت نام با موفقیت انجام شد" ,
+		"PREPARE_CODE_CHANGE_EMAIL1" : "اعتبار سنجی تغییر ایمیل اصلی" ,
+		"PREPARE_CODE_CHANGE_EMAIL2" : "اعتبار سنجی تغییر ایمیل ثانویه" ,
+		"PREPARE_FORGET_PASSWORD" : "فراموشی رمز عبور" ,
+		"PREPARE_ENABLE_G2" : "فعال سازی گوکل دو مرحله ای" ,
+		"CONFIRM_ENABLE_G2" : "تائید فعال سازی گوکل دو مرحله ای" ,
+		"PREPARE_DISABLE_G2" : "غیر فعال سازی گوگل دو مرحله ای"
+	}
+}

@@ -1,0 +1,36 @@
+@import './themes/theme-flattop.css';
+
+.swagger-ui .opblock-tag {
+    font-size: 15px;
+}
+
+.swagger-ui .opblock-tag {
+    padding: 3px;
+}
+
+.swagger-ui section.models .model-container:first-of-type {
+    margin: 5px;
+}
+
+.swagger-ui section.models .model-container {
+    margin: 0 5px 5px;
+}
+
+.swagger-ui .model-box {
+    padding: 3px;
+}
+
+.swagger-ui .model-title {
+    font-size: 12px;
+}
+
+.swagger-ui table {
+    margin: 10px 0;
+}
+
+h3, h4 {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #a7a7a7;
+    font-weight: normal;
+}
